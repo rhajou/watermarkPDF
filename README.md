@@ -1,10 +1,10 @@
 # watermarkPDF
 ## Example: 
-![Screenshot](images/pheobe.jpg.png)
 
-![before](https://github.com/rhajou/watermarkPDF/tree/main/images/pheobe.png)
+Input                      |  Output
+:-------------------------:|:-------------------------:
+![](https://github.com/rhajou/watermarkPDF/blob/main/images/pheobe.jpg)  |  ![](https://github.com/rhajou/watermarkPDF/blob/main/images/pheobe_watermark.png)
 
-![after](https://github.com/rhajou/watermarkPDF/tree/main/images/pheobe_watermark.png)
 ## Description
 watermarkPDF is a small Python project with the main goal of adding a watermark to your PDF files to provide protection against scams when sending sensitive data. By adding a watermark, such as "Document used for Alex Dupont" or "Use this document for loan with bank XXX," you can deter unauthorized use or replication of your PDF files.
 
